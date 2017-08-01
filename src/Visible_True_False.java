@@ -1,6 +1,6 @@
 /*
  *TP: Consigna:
-    1)probando conseguir que al hacer click en reset, vuelvan a aparecer las 3 imagenes
+    1)probando segundo cambio conseguir que al hacer click en reset, vuelvan a aparecer las 3 imagenes
     2)Conseguir que al iniciar el programa esten las imagenes ocultas y al hacer clikc en algun
     boton solo aparesca la imagen seleccionada. Recuerden que el metodo:
     
